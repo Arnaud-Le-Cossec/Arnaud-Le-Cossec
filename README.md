@@ -1,4 +1,4 @@
-I'am currently a student at Brest's (France) Institute Of Technolgy (IUT BREST-MORLAIX) studying electronic.
+I'am currently a student at ENSTA BRETAGNE engineering school, undergoing a 3-year master degree in embedded systems.
 Since I was very young, my curiosity and desire to understand pushed me to take apart everything I could. 
 From the discovery of my father's NES, to the design of my own 8-bit computer: my passion for electronics 
 has never stopped growing, between the preservation of its history and its future development...
